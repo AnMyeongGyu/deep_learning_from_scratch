@@ -1,2 +1,2 @@
-깃허브 링크
+offical
 https://github.com/WegraLee/deep-learning-from-scratch
